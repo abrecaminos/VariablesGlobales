@@ -1,4 +1,4 @@
 import 'package:flutter/material.dart';
 
-const kBenAfflekcSmoking = NetworkImage(
-    'https://pbs.twimg.com/media/Cs0zJWtXYAEqzWs?format=jpg&name=360x360');
+const kBenAfflekcSmoking =
+    'https://pbs.twimg.com/media/Cs0zJWtXYAEqzWs?format=jpg&name=360x360';

@@ -1,4 +1,4 @@
- {
+{
   "project_info": {
     "project_number": "568180478764",
     "project_id": "nerpogram2",
@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:568180478764:android:89719cae6c0889dd3d1289",
+        "mobilesdk_app_id": "1:568180478764:android:1cb6226b6f9c1d9a3d1289",
         "android_client_info": {
           "package_name": "com.example.instagram_clone"
         }
