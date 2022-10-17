@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:instagram_clone/home_page.dart';
 import 'package:instagram_clone/sign_in_page.dart';
+import 'package:instagram_clone/register_user.dart';
 import 'package:instagram_clone/utils/colors.dart';
 
 void main() async {

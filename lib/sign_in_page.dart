@@ -65,18 +65,12 @@ class _SignInPageState extends State<SignInPage> {
               obscureText: true,
             ),
             TextButton(
-                onPressed: () {},
+                onPressed: signIn,
                 child: isLoading
                     ? CircularProgressIndicator(color: kPrimaryColor)
                     : Text('Sign In')),
             TextButton(
-                onPressed: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                        builder: (context) => const RegisterPage()),
-                  );
-                },
+                onPressed: () {},
                 child: Text('Register if you dont have an account')),
             Text('Remember your password'),
           ],
